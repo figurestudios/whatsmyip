@@ -1,0 +1,1 @@
+wget -qO- http://ident.me
