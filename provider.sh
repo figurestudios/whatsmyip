@@ -1,1 +1,1 @@
-wget -qO- http://ident.me
+wget -qO- https://ident.me
