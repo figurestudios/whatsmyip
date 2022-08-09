@@ -23,7 +23,7 @@ async def worker(context: WorkContext, tasks: AsyncIterable[Task]):
 
 async def main():
     package = await vm.repo(
-	    image_hash="59548268bddc33a22a7f0c2b28dad813c6375d3ec9f874185a0496ae",
+        image_hash="0ffe07fbcb1064631d4394dcdcb1662056ed36d98f9efffa44484d99",
         min_mem_gib=4,
         min_storage_gib=4,
         min_cpu_threads=4,
